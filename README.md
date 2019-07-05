@@ -1,2 +1,2 @@
-# peatland-data
-Peatland Data - Senda Darwin Biologial Station' Eddy Covariance data
+# forest_data
+Senda Darwin Biologial Station' Eddy Covariance data
